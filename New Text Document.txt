@@ -1,1 +1,2 @@
-Hello World
+Hello World 
+New file is opened and some words added to file
